@@ -13,5 +13,5 @@
 
 // Sequence for pulling changes is:
 
-//									1. Ensure editor is in the proper directory
+//									1. Ensure editor is in the proper directory(repo retrieved from ghub)
 //									2. Once the above steps have been completed and before step 7 run: git pull

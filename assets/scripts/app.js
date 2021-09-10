@@ -1,4 +1,4 @@
-// Sequence for posting/retrieval is:
+// Sequence for pushing changes is:
 
 //				1. Clone repo from ghub: git clone URL
 // 				2. Merge local assets into clone folder, manually.
@@ -10,3 +10,8 @@
 //				8. Push files to ghub: git push
 
 //
+
+// Sequence for pulling changes is:
+
+//									1. Ensure editor is in the proper directory
+//									2. Once the above steps have been completed and before step 7 run: git pull
